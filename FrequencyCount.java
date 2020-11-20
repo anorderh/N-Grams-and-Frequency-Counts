@@ -1,6 +1,6 @@
 /**
  * (CS-310 / Program 3 - N-Grams and Frequency Counts) FrequencyCount Class
- * Class using HashMap to store Strings in a List and track each'S frequency with associated Integers
+ * Class using HashMap to store Strings in a List and track each's frequency with associated Integers
  * @author Anthony Norderhaug
  * @date 11/13/2020
  */
